@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyLibrary/MyLibrary.iml" filepath="$PROJECT_DIR$/MyLibrary/MyLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/U.iml" filepath="$PROJECT_DIR$/U.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Upload_Jcenter.iml" filepath="$PROJECT_DIR$/Upload_Jcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
